@@ -10,7 +10,7 @@ Com este artigo, foi possível identificar as ferramentas frequentemente utiliza
 
 ---
 
-## 1. Mapeamento do Mercado Global de CI/CD
+## 1. Mapeamento Global de CI/CD
 
 Com base nos dados de adoção apresentados no estudo, o mercado global de plataformas de automação está distribuído da seguinte forma:
 
@@ -22,7 +22,7 @@ Com base nos dados de adoção apresentados no estudo, o mercado global de plata
 
 ---
 
-## 2. Análise Detalhada das Ferramentas
+## 2. Análise das Ferramentas
 
 ### A. GitHub (GitHub Actions)
 * **Características:** Plataforma focada no versionamento Git e colaboração distribuída. A automação de CI/CD é realizada de forma nativa pelo GitHub Actions, que utiliza arquivos de configuração YAML no próprio repositório sob um modelo baseado em eventos (como *push* ou *pull requests*).
@@ -84,7 +84,7 @@ Com base nos dados de adoção apresentados no estudo, o mercado global de plata
 
 ---
 
-## 3. Matriz Sintética Comparativa
+## 3. Comparativo
 
 | Critério | Azure DevOps | GitHub Actions | Jenkins | GitLab CI/CD |
 | :--- | :--- | :--- | :--- | :--- |
@@ -97,7 +97,7 @@ Com base nos dados de adoção apresentados no estudo, o mercado global de plata
 
 ---
 
-## 4. Conclusão e Diretrizes de Decisão
+## 4. Conclusão
 
 1. **Adota-se o Azure DevOps** quando a organização necessita de elevada governança corporativa, conformidade rígida de dados (como HIPAA e GDPR), opere com sistemas monolíticos pesados ou utilize infraestrutura de nuvem híbrida com agentes privados.
 2. **Adota-se o GitHub** quando o foco da equipe for agilidade de implantação, facilidade de *onboarding*, segurança ágil integrada de código e alinhamento com práticas nativas em nuvem ou GitOps.
