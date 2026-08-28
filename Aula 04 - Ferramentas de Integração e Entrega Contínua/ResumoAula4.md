@@ -1,4 +1,4 @@
-# Comparação entre as Plataformas de CI/CD: Azure DevOps e GitHub
+# Comparação entre as Plataformas de CI/CD: 
 
 ---
 
