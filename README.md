@@ -20,9 +20,12 @@ DevOpsRepositorioIndividual/
 │   └── ResumoAula3.md
 ├── Aula 04 - Ferramentas de Integração e Entrega Contínua/
 │   └── ResumoAula4.md
+├── Aula 05 - Pipeline de Integração Contínua
+│   └── ResumoAula5.md
 ├── Conteudo/
 │   ├── Aula 01 - Apresentação da Disciplina e Introdução ao DevOps.pdf
 │   ├── Aula 02 - Conceitos de Integração e Entrega Contínua de Software.pdf
 │   ├── Aula 03 - Gerência de Configuração.pdf
 │   └── Aula 04 - Ferramentas de Integração e Entrega Contínua.pdf
+│   └── Aula 05 - Pipeline de Integração Contínua.pdf
 └── README.md
