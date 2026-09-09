@@ -173,8 +173,3 @@ Também é necessário documentar:
 * Em qual etapa da pipeline foram utilizadas;
 * Como contribuíram para a automação do projeto.
 
-## 💡 O que eu aprendi
-
-Nesta aula, entendi melhor como uma pipeline automatiza o processo de desenvolvimento e entrega de um software. Também aprendi que existem diferentes etapas, como Build, Testes, Qualidade, Segurança, Package e Deploy, e que uma falha em uma etapa pode interromper todo o fluxo.
-
-O **GitHub Actions** facilita bastante essa automação porque permite criar workflows diretamente dentro do repositório do GitHub.
