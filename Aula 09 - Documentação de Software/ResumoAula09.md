@@ -2,6 +2,9 @@
 
 Resumo da aula do Prof. Me. Deivison S. Takatu (Fatec), abordando o que é documentação de software, sua importância em projetos DevOps, os tipos de documentação, como estruturar um README no GitHub e a atividade proposta.
 
+Aluna: Nicolly Lemos da Silva e Karina de Moraes Garcia 
+Projeto documentado: Sistema de Agendamento Online Repositório: https://github.com/nicollylemos/Agendamento
+
 ---
 
 ## 1. Introdução
